@@ -9,7 +9,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinatajik&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tinatajik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinatajik&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tinatajik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinatajik&show_icons=true&theme=tokyonight&locale=en" alt="tinatajik" /></p>
 
