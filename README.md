@@ -9,4 +9,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinatajik&show_icons=true&locale=en" alt="tinatajik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinatajik&show_icons=true&theme=dark&locale=en&layout=compact" alt="tinatajik" /></p>
+
