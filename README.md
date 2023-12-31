@@ -9,5 +9,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinatajik&show_icons=true&theme=dark&locale=en&layout=compact" alt="tinatajik" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinatajik&show_icons=true&theme=dark&locale=en&layout=compact" alt="tinatajik" /></p>
 
